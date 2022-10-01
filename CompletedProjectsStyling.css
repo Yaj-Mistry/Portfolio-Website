@@ -1,0 +1,29 @@
+.Snake {
+    padding-left: 75px;
+    padding-top: 25px;
+    color: black;
+    font-size: large;
+    
+}
+
+.Snake p {
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+
+.Unity {
+
+    background-color: #09ED74;
+}
+
+
+.hyperlink {
+    color: #096CED;
+}
+
+
+.header p{
+font-size: medium;
+font-weight: normal;
+}
