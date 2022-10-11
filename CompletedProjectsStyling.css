@@ -1,14 +1,11 @@
 .Snake {
     padding-left: 125px;
-    margin-top: 25px;
+    margin-top: 10px;
+    padding-top: 10px;
     color: black;
     font-size: large;
     background-image: linear-gradient(#14DAE0, #0AF7BC);
 
-}
-
-.SnakePreview {
-    right: auto;
 }
 
 .Unity {
@@ -16,6 +13,9 @@
     background-image: linear-gradient(#0AF7BC, #09ED74);
 }
 
+.SnakePreview {
+    margin-left: 10px;
+}
 
 .hyperlink {
     color: #096CED;
@@ -25,4 +25,8 @@
 .header p {
     font-size: medium;
     font-weight: normal;
+}
+
+.textBlock {
+    display: flex;
 }
