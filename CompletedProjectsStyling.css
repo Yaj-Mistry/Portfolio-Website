@@ -9,7 +9,13 @@
 }
 
 .Unity {
-    padding-top: 25px;
+    padding-left: 125px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-size: large;
+    background-image: linear-gradient(#14DAE0, #0AF7BC);
     background-image: linear-gradient(#0AF7BC, #09ED74);
 }
 
@@ -29,4 +35,8 @@
 
 .textBlock {
     display: flex;
+}
+
+.donutpic {
+    size: 100px;
 }
