@@ -1,9 +1,10 @@
 .header {
-    padding: 100px;
+    padding: 250px;
     text-align: center;
-    background-image: linear-gradient(#0AB0F7, #14DAE0) ;
-    color: black;
+    background: #a1e5ab;
+    color: #606974;
     font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .header h1 {
