@@ -1,7 +1,7 @@
 .Snake {
     padding-left: 50px;
-    margin-top: 10px;
     margin-right: 750px;
+    margin-left: 0pxs;
     padding-right: 50px;;
     padding-top: 10px;
     color: black;
@@ -15,7 +15,6 @@
     padding-left: 50px;
     margin-top: 10px;
     margin-left: 750px;
-    padding-top: 10px;
     padding-right: 50px;
     padding-bottom: 10px;
     color: black;
