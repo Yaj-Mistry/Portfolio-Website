@@ -1,5 +1,6 @@
 .header {
-    padding: 250px;
+    padding: 225px;
+    margin: 0;
     text-align: center;
     background: #a1e5ab;
     color: #606974;
@@ -15,4 +16,9 @@
 .headerbottom{
     padding-bottom: 10px;
     background: #606974;
+}
+
+html, body{
+    margin: 0px;
+
 }
